@@ -1,0 +1,6 @@
+{
+  "name": "통계변환 스튜디오 (제작: 황의천T)",
+  "description": "중고등학교 사회·지리 교사를 위한 다목적 통계 자료 변환, 도표·지도 생성 및 시험 문항 출제 스튜디오",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
